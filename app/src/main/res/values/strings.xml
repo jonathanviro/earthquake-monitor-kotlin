@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">earthquake-monitor</string>
+    <string name="empty_earthquake">No hay terremotos</string>
+</resources>
